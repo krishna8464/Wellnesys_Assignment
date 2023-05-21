@@ -2,9 +2,9 @@
 
 
 - In this assigment I set up a basic web server, handle HTTP requests and responses, implemented routing, and work with middleware in Node.js Express.
+- Followed the MVC structure for the project folder.
 - Here's a summary of the steps I followed:
 
-- Followed the MVC structure for the project folder.
 
 Project Setup: I created a new directory for the project and initialized a new Node.js project using npm init -y. 
 I installed the Express,nodemon,morgan,fs,path packages as a dependency.
